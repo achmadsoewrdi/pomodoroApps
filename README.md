@@ -1,4 +1,4 @@
-# 🍅 Pomodoro Timer App
+# 🍅 Pomodoro Timer App (on progress hehe)
 
 Sebuah aplikasi Pomodoro interaktif berbasis **Vue 3** dan **Tailwind CSS** yang dirancang untuk membantu meningkatkan produktivitasmu dengan teknik Pomodoro: kerja 25 menit, istirahat 5 menit.
 
