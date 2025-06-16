@@ -19,5 +19,5 @@ Sebuah aplikasi Pomodoro interaktif berbasis **Vue 3** dan **Tailwind CSS** yang
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/kamu/pomodoro-timer.git
+https://github.com/achmadsoewrdi/pomodoroApps.git
 cd pomodoro-timer
