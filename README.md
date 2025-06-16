@@ -33,10 +33,10 @@ npm install
 npm run dev
 ```
 
-
-🧩 ### Teknologi yang Digunakan
-⚙️ Vue 3
-🎨 Tailwind CSS
-🌐 Vite untuk tooling & dev server
+### 🧩Teknologi yang digunakan
+- ⚙️ Vue 3
+- 🎨 Tailwind CSS
+- 🌐 Vite untuk tooling & dev server
+- 
 
 
