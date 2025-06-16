@@ -14,12 +14,6 @@ Sebuah aplikasi Pomodoro interaktif berbasis **Vue 3** dan **Tailwind CSS** yang
 
 ---
 
-## 📸 Preview
-
-![App Screenshot](./preview.png) <!-- (Tambahkan gambar screenshot jika ada) -->
-
----
-
 ## 🚀 Cara Menjalankan
 
 ### 1. Clone Repository
