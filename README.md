@@ -20,4 +20,11 @@ Sebuah aplikasi Pomodoro interaktif berbasis **Vue 3** dan **Tailwind CSS** yang
 
 ```bash
 https://github.com/achmadsoewrdi/pomodoroApps.git
-cd pomodoro-timer
+cd pomodoroApps
+
+### 2. Install Dependencies
+```bash
+npm install
+
+
+
