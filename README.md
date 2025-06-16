@@ -21,10 +21,22 @@ Sebuah aplikasi Pomodoro interaktif berbasis **Vue 3** dan **Tailwind CSS** yang
 ```bash
 https://github.com/achmadsoewrdi/pomodoroApps.git
 cd pomodoroApps
+```
 
 ### 2. Install Dependencies
 ```bash
 npm install
+```
 
+### 3. Jalankan Aplikasi
+```bash
+npm run dev
+```
+
+
+🧩 ### Teknologi yang Digunakan
+⚙️ Vue 3
+🎨 Tailwind CSS
+🌐 Vite untuk tooling & dev server
 
 
