@@ -1,35 +1,29 @@
-# podo web apps
+# 🍅 Pomodoro Timer App
 
-This template should help get you started developing with Vue 3 in Vite.
+Sebuah aplikasi Pomodoro interaktif berbasis **Vue 3** dan **Tailwind CSS** yang dirancang untuk membantu meningkatkan produktivitasmu dengan teknik Pomodoro: kerja 25 menit, istirahat 5 menit.
 
-## Recommended IDE Setup
+---
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## ✨ Fitur Utama
 
-## Customize configuration
+- ⏱️ Timer Pomodoro dengan durasi default 25 menit
+- ✅ Tombol Start/Pause dan Reset
+- 💅 UI modern dengan Tailwind CSS
+- 🎬 Animasi fade-in saat aplikasi dibuka
+- 🌈 Desain seperti buah tomat 🍅
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+---
 
-## Project Setup
+## 📸 Preview
 
-```sh
-npm install
-```
+![App Screenshot](./preview.png) <!-- (Tambahkan gambar screenshot jika ada) -->
 
-### Compile and Hot-Reload for Development
+---
 
-```sh
-npm run dev
-```
+## 🚀 Cara Menjalankan
 
-### Compile and Minify for Production
+### 1. Clone Repository
 
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+```bash
+git clone https://github.com/kamu/pomodoro-timer.git
+cd pomodoro-timer
